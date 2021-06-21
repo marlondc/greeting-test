@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/marlondc/greeting-test/compare/v1.0.2...v1.1.0) (2021-06-21)
+
+
+### Features
+
+* **CLI Support:** add cli support ([#5](https://github.com/marlondc/greeting-test/issues/5)) ([ca72057](https://github.com/marlondc/greeting-test/commit/ca72057971e3ed40484e3b98e1ad32d3ea21c6cb))
+
 ## [1.0.2](https://github.com/marlondc/greeting-test/compare/v1.0.1...v1.0.2) (2021-06-21)
 
 
