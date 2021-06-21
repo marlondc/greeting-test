@@ -41,7 +41,7 @@
     ]
   },
   "bin": {
-    "greet": "bin/greet.js"
+    "greeter": "bin/greet.js"
   },
   "repository": {
     "type": "git",
