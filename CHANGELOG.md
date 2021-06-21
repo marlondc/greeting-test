@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/marlondc/greeting-test/compare/v1.1.0...v1.1.1) (2021-06-21)
+
+
+### Bug Fixes
+
+* **es5:** use es5 to fix unexpected token ([#6](https://github.com/marlondc/greeting-test/issues/6)) ([3d8f78c](https://github.com/marlondc/greeting-test/commit/3d8f78c0adfac59378fd06b3c3448c6bf093c192))
+
 # [1.1.0](https://github.com/marlondc/greeting-test/compare/v1.0.2...v1.1.0) (2021-06-21)
 
 
