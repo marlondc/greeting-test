@@ -40,6 +40,9 @@
       ]
     ]
   },
+  "bin": {
+    "greeter": "bin/greet.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marlondc/greeting-test.git"
