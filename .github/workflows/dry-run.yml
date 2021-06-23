@@ -1,11 +1,11 @@
-name: Release
+name: Release Dry Run
 on:
   pull_request:
     branches:
       - main
 jobs:
   release-dry-run:
-    name: Release
+    name: Release Dry Run
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
