@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/marlondc/greeting-test/compare/v1.1.2...v1.2.0) (2021-06-23)
+
+
+### Features
+
+* **test no release:** update version so release is ahead of npm as test ([#8](https://github.com/marlondc/greeting-test/issues/8)) ([376a6e4](https://github.com/marlondc/greeting-test/commit/376a6e424262ba2e3d304a970f28539a0149179b))
+
 ## [1.1.2](https://github.com/marlondc/greeting-test/compare/v1.1.1...v1.1.2) (2021-06-21)
 
 
