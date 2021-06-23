@@ -6,6 +6,18 @@ All notable changes to this project will be documented in this file. See
 # [1.3.0](https://github.com/marlondc/greeting-test/compare/v1.2.0...v1.3.0) (2021-06-23)
 
 
+### Bug Fixes
+
+* **test:** test versions ([#10](https://github.com/marlondc/greeting-test/issues/10)) ([4433677](https://github.com/marlondc/greeting-test/commit/443367712f2e5b33c9aaecceb0d6042450a5b9eb))
+
+
+### Features
+
+* **rejoining test:** publish and release test ([#9](https://github.com/marlondc/greeting-test/issues/9)) ([fc798f9](https://github.com/marlondc/greeting-test/commit/fc798f9268d5abe9684bedbfa30591a270fb82db))
+
+# [1.3.0](https://github.com/marlondc/greeting-test/compare/v1.2.0...v1.3.0) (2021-06-23)
+
+
 ### Features
 
 * **rejoining test:** publish and release test ([#9](https://github.com/marlondc/greeting-test/issues/9)) ([fc798f9](https://github.com/marlondc/greeting-test/commit/fc798f9268d5abe9684bedbfa30591a270fb82db))
