@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/marlondc/greeting-test/compare/v1.4.0...v1.5.0) (2021-06-24)
+
+
+### Features
+
+* **remove dry run:** remove dry run ([#12](https://github.com/marlondc/greeting-test/issues/12)) ([1ded1f5](https://github.com/marlondc/greeting-test/commit/1ded1f5e0f8528272fd86a040e43ce1f130d8aff))
+
 # [1.4.0](https://github.com/marlondc/greeting-test/compare/v1.3.0...v1.4.0) (2021-06-23)
 
 
